@@ -53,6 +53,7 @@ def end():
     print('Congratulations, have a nice day!')
 
 print("Hello,I just comitted this from terminal")
+print("Hey there, I'm Atif and i also made changes ")
 
 greet('Aid', '2020')
 remind_name()
